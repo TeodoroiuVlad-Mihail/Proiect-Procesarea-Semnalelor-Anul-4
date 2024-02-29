@@ -1,0 +1,6 @@
+noisy5 Average SSIM: 0.85
+noisy10 Average SSIM: 0.73
+noisy15 Average SSIM: 0.69
+noisy25 Average SSIM: 0.59
+noisy35 Average SSIM: 0.52
+noisy50 Average SSIM: 0.45
